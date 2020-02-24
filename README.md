@@ -1,1 +1,1 @@
-# cervicalcancerdetection
+# Cervical Cancer Detection
